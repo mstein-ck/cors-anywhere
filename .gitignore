@@ -2,5 +2,6 @@
 *.tmp
 *.log
 
+.vs/
 coverage/
 node_modules/
